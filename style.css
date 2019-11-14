@@ -133,6 +133,10 @@ background-size: cover;
 background-image:url(ocean.jpg);
 background-size: cover;
 }
+#clinik{
+background-image:url();
+background-size: cover;
+}
 .foot {
 	text-align: center;
     font-size: 25px;
